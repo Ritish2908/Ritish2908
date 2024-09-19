@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ritish2908
+- 👋 Hi, I’m @Ritish Devadiga
 - 👀 I’m interested in Web designing
 - 🌱 I’m currently learning HTML,CSS,JS etc..,
 - 💞️ I’m looking to collaborate on Web Designing
